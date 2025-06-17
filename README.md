@@ -2,3 +2,7 @@ Link to the Pickle Model for Price Forecating, Comparator,:  https://drive.googl
 
 Link to the Keras Model for Quality Assurance Module :
 https://drive.google.com/drive/u/0/folders/1pdZ8Zu-0AD0U1n0wnHkVjK1ZnF-DdwLg
+
+FishNet Backend: https://github.com/Saru03/FishNet-Backend
+
+FishNet Frontend: https://github.com/Saru03/Fishnet-Frontend
